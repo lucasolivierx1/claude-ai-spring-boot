@@ -53,3 +53,5 @@ The idea behind this template is that you can just clone this repository and use
 ├── README.md
 └── pom.xml
 ```
+
+You can find the detailed explanation and description of that that template in my post [Claude Code Template for Spring Boot](https://piotrminkowski.com/2026/03/24/claude-code-template-for-spring-boot/).
